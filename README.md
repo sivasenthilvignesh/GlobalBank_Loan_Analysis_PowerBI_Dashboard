@@ -11,8 +11,7 @@ The goal of this dashboard is to monitor loan approval trends, branch performanc
 
 Dataset contains fields like Application Date, Closure Date, Branch #, Customer #, Transaction Amount, Approval Status & Duration.
 
-🔍 **Key KPIs**
-**KPI	Description**
+🔍 **KPI	Description**
 *Total Branches	Unique branches present in dataset
 *Transaction Total	Total loan transaction value
 *Approval Status %	Approved applications ratio
